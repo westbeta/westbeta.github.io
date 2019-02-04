@@ -16,6 +16,7 @@ module.exports = function(config) {
   });
 
   config.addPassthroughCopy('./src/assets');
+  config.addPassthroughCopy('../CNAME');
 
   return {
     templateFormats: [ 'md', 'njk', 'html' ],
