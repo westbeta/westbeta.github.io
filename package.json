@@ -1,11 +1,11 @@
 {
-  "name": "testsite",
+  "name": "west-beta",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
   "scripts": {
     "start": "npm run dev",
-    "dev": "rm -rf ./site && eleventy --serve --watch",
+    "dev": "find ./site/ ! -name '.git' -type f -exec rm -rf {} + && eleventy --serve --watch",
     "debug": "rm -rf ./site && DEBUG=Eleventy* eleventy --serve --watch",
     "prod": "eleventy --serve --watch --formats=html,gif,jpg,css --input=./site --output=./docs"
   },

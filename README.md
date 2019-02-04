@@ -1,7 +1,6 @@
 # westbeta.github.io
 
 
-
 ### Setup Worktree
 
 ```
