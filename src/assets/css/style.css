@@ -1,0 +1,49 @@
+  html,
+  body {
+    font-family: 'Open Sans';
+    background: url("/assets/img/cubes.png");
+  }
+/*  html, body {
+  font-family: 'Thasadith', sans-serif;
+}*/
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: unset;
+}
+
+.logo {
+height: 80px;
+border: 0px;
+margin: 10px 0;
+}
+
+.tabs ul {
+  border-bottom-style: none;
+}
+
+.copyright {
+  font-size: 10px;
+}
+
+.button.is-info {
+  background-color: #346591;
+}
+
+.button.is-info.is-outlined {
+  border-color: #346591;
+  color: #346591;
+}
+.button.is-info.is-outlined:focus,
+.button.is-info.is-outlined:hover {
+    background-color: #346591;
+    border-color: #346591;
+}
+
+.page {
+  padding: 3rem;
+  background: #fff;
+}
+
+img.has-border {
+ border: 2px solid #f2f2f2;
+}
