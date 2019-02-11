@@ -59,16 +59,19 @@ Once the plugin is activated, you should see two new links on the left hand dash
 
 ##### 3. Register & Setup the Plugin
 
-Click on the dashboard link titled "Authorize.Net Settings". This will display
+Click on the dashboard link titled "Authorize.Net". This will display
 the options and settings for the WordPress Authorize.Net Payments plugin.
 
 ![Settings Selected](/assets/img/products/wp-authnet/support/settings-selected.png)
 
-Register the plugin
+Register and activate by entering your email address that you used
+to purchase the WordPress Authorize.Net Payments plugin and enter 
+the license key you recieved.
 
-![Register Plugin]()
+![Register Plugin](/assets/img/products/wp-authnet/support/activate-license.png)
 
-Configure the settings to your choosing. Make sure to set the *Authorize.Net Login ID*
+Once the plugin is activated, configure the settings to your choosing. 
+Make sure to set the *Authorize.Net Login ID*
 and the *Authorize.Net Transaction Key* as they are required for the plugin to work.
 Learn more about all the plugin [settings and options here](#settings).
 
