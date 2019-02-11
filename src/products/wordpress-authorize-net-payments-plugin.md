@@ -8,7 +8,13 @@ title: WordPress Authorize.Net Payments Plugin
 
 ### Description
 
-In a few simple steps you can start accepting credit card payments, donations and subscriptions with Authorize.Net on your WordPress site. WordPress Authorize.Net Payments is a standalone WordPress plugin. No complex shopping cart, form builder or membership site plugin needed.
+The WordPress Authorize.Net Payments Plugin is the **only** standalone WordPress plugin
+available that allows you accept payments on your WordPress site.
+
+In a few simple steps you can start accepting credit card payments, donations, ruccuring payments and subscriptions
+with Authorize.Net on your WordPress site. WordPress Authorize.Net Payments
+is a standalone WordPress plugin. No complex shopping cart, form builder or membership
+site plugin needed (like WooCommerce, etc).
 
 That’s it. No other plugins required.
 
@@ -27,16 +33,14 @@ That’s it. No other plugins required.
 - Specify comments description
 - Mobile and tablet responsive
 - Easily customizable form
-
-
 - Custom select box option
 - Custom fields to capture additional data
 - Subscription support
 - Subscription start and end date selection
-- Priority email support with a 24-hour response time during business days
+- Does not store full credit card data
 
 
-## Compatibility
+### Compatibility
 
 Compatible with WordPress Version 4.8.0 and above.
 
@@ -91,21 +95,38 @@ Compatible with WordPress Version 4.8.0 and above.
     </a>
   </div>
   <div class="column">
+    <a href="#" data-featherlight="/assets/img/products/wp-authnet/transaction-detail.png">
+      <img class="has-border" src="/assets/img/products/wp-authnet/transaction-detail-sq.png" />
+    </a>
   </div>
 </div>
 
+---
+
+#### Purchase Information
+
+- Single license includes 1 year of updates and tech support
+- Priority email support with a 24-hour response time during business days
+- For agency or enterprise pricing, please contact us at [support@westbeta.com](mailto=support@westbeta.com)
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
 <div id="error-message"></div>
 
-<a href="https://gum.co/KlBme" target="_blank" class="button is-medium is-success">
-  <span><b>Purchase</b> $249.99</span>
-</a>
-
-<a href="/support/wordpress-authorize-net-payments-plugin-faq" class="button is-medium is-info">
-    <span>Support</span>
+<div style="text-align: center;">
+  <a href="https://gum.co/KlBme" style="font-size:1.8rem; margin: 1.8rem 0 1.5rem 0;" target="_blank" class="button is-large is-success">
+      <span>Purchase</span>
+      <span class="icon is-small">
+          <i class="fa fa-dollar"></i>
+      </span>
+  </a>
+  <br>
+  <a href="/support/wordpress-authorize-net-payments-plugin-docs" class="button is-info">
+    <span>Support & Documentation</span>
     <span class="icon is-small">
         <i class="fa fa-support"></i>
     </span>
-</a>
+  </a>
+</div>
+
+

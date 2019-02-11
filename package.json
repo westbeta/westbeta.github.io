@@ -2,21 +2,19 @@
   "name": "west-beta",
   "version": "1.0.0",
   "description": "",
+  "author": "Chris Diana",
   "main": "index.html",
   "scripts": {
     "start": "npm run dev",
-    "dev": "find ./site/ ! -name '.git' -type f -exec rm -rf {} + && eleventy --serve --watch",
-    "debug": "rm -rf ./site && DEBUG=Eleventy* eleventy --serve --watch",
-    "prod": "eleventy --serve --watch --formats=html,gif,jpg,css --input=./site --output=./docs"
+    "dev": " npm run clean && eleventy --serve --watch",
+    "debug": "npm run clean && DEBUG=Eleventy* eleventy --serve --watch",
+    "clean": "find ./site/ -mindepth 1 ! -name '*.git' -delete",
+    "setup": "npm install && git worktree add site master"
   },
-  "author": "Chris Diana",
   "devDependencies": {
     "@11ty/eleventy": "^0.6.0",
     "@11ty/eleventy-plugin-rss": "^1.0.5",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.1"
-  },
-  "dependencies": {
-    "moment": "^2.24.0",
-    "sitemap-generator-cli": "^7.4.0"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.1",
+    "moment": "^2.24.0"
   }
 }
