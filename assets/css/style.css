@@ -22,7 +22,9 @@ margin: 10px 0;
 }
 
 .copyright {
-  font-size: 10px;
+  font-size: 12px;
+  text-align: center;
+  margin: 1rem;
 }
 
 .button.is-info {
