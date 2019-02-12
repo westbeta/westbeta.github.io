@@ -1,22 +1,39 @@
+---
+layout: page
+title: End User License Agreement
+---
+
 # End User License Agreement for West Beta Software
 
 This End-User License Agreement ("EULA") is a legal agreement between you and West Beta
 
-<p>This EULA agreement governs your acquisition and use of our <span class="app_name">WordPress Authorize.Net® Payments</span> software ("Software") directly from <span class="company_name">West Beta</span> or indirectly through a <span class="company_name">West Beta</span> authorized reseller or distributor (a "Reseller").</p>
+This EULA agreement governs your acquisition and use of our software ("Software") directly from West Beta or indirectly
+through a West Beta authorized reseller or distributor (a "Reseller").
 
-<p>Please read this EULA agreement carefully before completing the installation process and using the <span class="app_name">WordPress Authorize.Net® Payments</span> software. It provides a license to use the <span class="app_name">WordPress Authorize.Net® Payments</span> software and contains warranty information and liability disclaimers.</p>
+Please read this EULA agreement carefully before completing the installation process and using
+the Software. It provides a license to use the software and contains warranty information and liability disclaimers.
 
-<p>If you register for a free trial of the <span class="app_name">WordPress Authorize.Net® Payments</span> software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the <span class="app_name">WordPress Authorize.Net® Payments</span> software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.</p>
+If you register for a free trial of the Software, this EULA agreement will also govern that trial. By clicking "accept"
+or installing and/or using the Software, you are confirming your acceptance of the Software and agreeing to
+become bound by the terms of this EULA agreement.
 
-<p>If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.</p>
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you
+have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have
+such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or
+use the Software, and you must not accept this EULA agreement.
 
-<p>This EULA agreement shall apply only to the Software supplied by <span class="company_name">West Beta</span> herewith regardless of whether other software is referred to or described herein. The terms also apply to any <span class="company_name">West Beta</span> updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by <a href="https://eulatemplate.com">EULA Template</a> for <span class="app_name">WordPress Authorize.Net® Payments</span>.
+This EULA agreement shall apply only to the Software supplied by West Beta herewith regardless of whether other
+software is referred to or described herein. The terms also apply to any West Beta updates, supplements,
+Internet-based services, and support services for the Software, unless other terms accompany those items on
+delivery. If so, those terms apply.
 
-<h3>License Grant</h3>
+### License Grant
 
-<p><span class="company_name">West Beta</span> hereby grants you a personal, non-transferable, non-exclusive licence to use the <span class="app_name">WordPress Authorize.Net® Payments</span> software on your devices in accordance with the terms of this EULA agreement.</p>
+West Beta hereby grants you a personal, non-transferable, non-exclusive licence to use the Software on your devices in
+accordance with the terms of this EULA agreement.
 
-You are permitted to load the <span class="app_name">WordPress Authorize.Net® Payments</span> software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the <span class="app_name">WordPress Authorize.Net® Payments</span> software.</p>
+You are permitted to load the Software (for example a PC, laptop, mobile or tablet) under your control. You are
+responsible for ensuring your device meets the minimum requirements of the Software.
 
 You are not permitted to:
 - Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
@@ -24,7 +41,6 @@ You are not permitted to:
 - Allow any third party to use the Software on behalf of or for the benefit of any third party
 - Use the Software in any way which breaches any applicable local, national or international law
 - use the Software for any purpose that West Beta considers is a breach of this EULA agreement
-
 
 ### Intellectual Property and Ownership
 
@@ -44,6 +60,7 @@ This EULA agreement, and any dispute arising out of or in connection with this E
 
 
 
+<!--
 # End User License Agreement for West Beta Software
 
 #### Please read this End User License Agreement (“EULA”) before You purchase a License Key for the Software and subsequently download and use the Software.
@@ -150,3 +167,4 @@ In this EULA the expressions below shall have the meaning assigned to them in th
 9.2. This EULA shall be governed by and construed in accordance with the laws of the Netherlands, excluding its conflicts of law rules.
 
 9.3. Any dispute between West Beta and You shall exclusively be submitted to the competent court in The Hague, the Netherlands.
+-->
