@@ -46,6 +46,12 @@ margin: 10px 0;
   background: #fff;
 }
 
+@media screen and (max-width: 600px) {
+  .page {
+    padding: 1rem;
+  }
+}
+
 img.has-border {
  border: 2px solid #f2f2f2;
 }
