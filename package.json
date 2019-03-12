@@ -6,7 +6,8 @@
   "main": "index.html",
   "scripts": {
     "start": "npm run dev",
-    "dev": " npm run clean && eleventy --serve --watch",
+    "dev": "npm run clean && eleventy --serve --watch",
+    "build": "npm run clean && eleventy",
     "debug": "npm run clean && DEBUG=Eleventy* eleventy --serve --watch",
     "clean": "find ./site/ -mindepth 1 ! -name '*.git' -delete",
     "setup": "npm install && git worktree add site master"
