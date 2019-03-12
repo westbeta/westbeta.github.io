@@ -2,41 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://westbeta.com/sitemap.xml</loc>
+<<<<<<< HEAD
     <lastmod>2019-02-03</lastmod>
+=======
+    <lastmod>2019-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://westbeta.com/</loc>
-    <lastmod>2019-03-12</lastmod>
+    <lastmod>2019-02-12</lastmod>
+>>>>>>> bf5fd1de9b07b4847088d89dc2b29c80d9d63837
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
+    <loc>https://westbeta.com/</loc>
+    <lastmod>2019-03-12</lastmod>
+=======
+    <loc>https://westbeta.com/terms/</loc>
+    <lastmod>2019-02-12</lastmod>
+>>>>>>> bf5fd1de9b07b4847088d89dc2b29c80d9d63837
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+<<<<<<< HEAD
     <loc>https://westbeta.com/terms/</loc>
     <lastmod>2019-03-01</lastmod>
+=======
+    <loc>https://westbeta.com/support/wordpress-authorize-net-payments-plugin-docs/</loc>
+    <lastmod>2019-02-12</lastmod>
+>>>>>>> bf5fd1de9b07b4847088d89dc2b29c80d9d63837
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://westbeta.com/support/wordpress-authorize-net-payments-plugin-docs/</loc>
     <lastmod>2019-03-01</lastmod>
+=======
+    <loc>https://westbeta.com/eula/</loc>
+    <lastmod>2019-02-12</lastmod>
+>>>>>>> bf5fd1de9b07b4847088d89dc2b29c80d9d63837
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://westbeta.com/eula/</loc>
     <lastmod>2019-03-01</lastmod>
+=======
+    <loc>https://westbeta.com/products/</loc>
+    <lastmod>2019-02-12</lastmod>
+>>>>>>> bf5fd1de9b07b4847088d89dc2b29c80d9d63837
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://westbeta.com/support/</loc>
     <lastmod>2019-02-10</lastmod>
+=======
+    <loc>https://westbeta.com/products/wordpress-authorize-net-payments-plugin/</loc>
+    <lastmod>2019-02-12</lastmod>
+>>>>>>> bf5fd1de9b07b4847088d89dc2b29c80d9d63837
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://westbeta.com/products/</loc>
     <lastmod>2019-03-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -45,18 +81,26 @@
   <url>
     <loc>https://westbeta.com/products/wordpress-authorize-net-payments-plugin/</loc>
     <lastmod>2019-03-12</lastmod>
+=======
+    <loc>https://westbeta.com/support/</loc>
+    <lastmod>2019-02-12</lastmod>
+>>>>>>> bf5fd1de9b07b4847088d89dc2b29c80d9d63837
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://westbeta.com/about/</loc>
-    <lastmod>2019-02-03</lastmod>
+    <lastmod>2019-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://westbeta.com/acknowledgements/</loc>
+<<<<<<< HEAD
     <lastmod>2019-03-01</lastmod>
+=======
+    <lastmod>2019-02-12</lastmod>
+>>>>>>> bf5fd1de9b07b4847088d89dc2b29c80d9d63837
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
