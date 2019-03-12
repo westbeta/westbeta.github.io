@@ -4,8 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <title>{{ metadata.title | title }}</title>
+    <title>{{ metadata.title }} | {{ title }}</title>
+
+    <meta name="keywords" content="{{ keywords }}"/>
+    <meta name="description" content="{{ description }}">
+    <meta name="url" content="{{ metadata.url }}">
+    <meta name="identifier-URL" content="{{ metadata.url }}">
 
     <!-- Icons -->
     <link rel="shortcut icon" href="{{ '/assets/img/icons/icon.png' | url }}" type="image/x-icon">

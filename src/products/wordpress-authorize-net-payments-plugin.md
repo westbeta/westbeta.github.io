@@ -1,6 +1,8 @@
 ---
 layout: page
-title: WordPress Authorize.Net Payments Plugin
+title: WordPress Authorize.Net Payments
+description: The only dedicated standalone WordPress plugin available that allows yout to accept payments through Authorize.Net on your WordPress site.
+keywords: wordpress, authorize.net, plugin, payments, donations, standalone, authorizenet, authorize, net
 ---
 
 ![WordPress Authorize.Net Payments Plugin](/assets/img/products/wp-authnet/wp-authnet-logo.png)
