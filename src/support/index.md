@@ -12,7 +12,8 @@ cannot find what you are looking for here.
 #### Product Support & Documentation
 
 - [WordPress Authorize.Net Payments](/support/wordpress-authorize-net-payments-plugin-docs)
-- [HelixChart](http://helixchart.com)
+- [HelixChart](https://helixchart.com)
+- [VizPath](https://vizpath.com)
 
 
 #### Email
