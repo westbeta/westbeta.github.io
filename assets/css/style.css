@@ -1,20 +1,25 @@
-  html,
-  body {
-    font-family: 'Open Sans';
-    background: url("/assets/img/cubes.png");
-  }
-/*  html, body {
-  font-family: 'Thasadith', sans-serif;
-}*/
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: url("/assets/img/cubes.png");
+}
 
 h1, h2, h3, h4, h5, h6 {
-    font-size: unset;
+  font-size: unset;
+}
+
+a {
+  color: #346591;
+}
+
+.main {
+  padding: 3rem;
 }
 
 .logo {
-height: 80px;
-border: 0px;
-margin: 10px 0;
+  height: 80px;
+  border: 0px;
+  margin: 10px 0;
 }
 
 .tabs ul {
