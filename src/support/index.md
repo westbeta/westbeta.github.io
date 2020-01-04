@@ -5,9 +5,10 @@ title: Support
 
 # Support
 
-Questions, concerns or suggestions? Browse the support articles below or reach out if you
-cannot find what you are looking for here.
+Browse the support articles below for software and application documentation.
+Can't find an answer? [Contact us](/contact) and we'll get back to you as soon as we can.
 
+<br>
 
 #### Product Support & Documentation
 
@@ -15,22 +16,35 @@ cannot find what you are looking for here.
 - [HelixChart](https://helixchart.com)
 - [VizPath](https://vizpath.com)
 
-
-#### Email
-
-- Support: <a href="mailto:support@westbeta.com">support@westbeta.com</a>
-- Press Inquiries: <a href="mailto:pr@westbeta.com">pr@westbeta.com</a>
-
+<br>
 
 #### Terms & Policies
 
-- [Privacy Policy](/terms)
-- [Terms & Conditions](/terms)
-- [End User License Agreement](/eula)
-- [Acknowledgements](/acknowledgements)
-
-
-
 <br>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFtwXDuZkwkz0h1NBREMaPDZb3DQO_IMIPRbWlVtjI6AMGJA/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<div class="columns">
+<div class="column is-3 has-text-centered">
+    <a href="/terms">
+        <i class="fa fa-institution is-block is-size-1" style="margin-bottom:15px"></i>
+        Terms & Conditions
+    </a>
+</div>
+<div class="column is-3 has-text-centered">
+    <a href="/terms">
+        <i class="fa fa-book is-block is-size-1" style="margin-bottom:15px"></i>
+        Privacy Policy
+    </a>
+</div>
+<div class="column is-3 has-text-centered">
+    <a href="/eula">
+        <i class="fa fa-certificate is-block is-size-1" style="margin-bottom:15px"></i>
+        End User License Agreement
+    </a>
+</div>
+<div class="column is-3 has-text-centered">
+    <a href="/acknowledgements">
+        <i class="fa fa-thumbs-o-up is-block is-size-1" style="margin-bottom:15px"></i>
+        Acknowledgements
+    </a>
+</div>
+</div>
