@@ -55,6 +55,9 @@ a {
   .page {
     padding: 1rem;
   }
+  .main {
+    padding: 1.5rem;
+  }
 }
 
 img.has-border {
