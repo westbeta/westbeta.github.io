@@ -1,111 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>West Beta Software | End User License Agreement</title>
+---
+layout: page
+title: End User License Agreement
+---
 
-    <meta name="keywords" content=""/>
-    <meta name="description" content="">
-    <meta name="url" content="https://westbeta.com">
-    <meta name="identifier-URL" content="https://westbeta.com">
+# End User License Agreement for West Beta Software
 
-    <!-- Icons -->
-    <link rel="shortcut icon" href="/assets/img/icons/icon.png" type="image/x-icon">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/icons/favicon-16x16.png">
-    <link rel="manifest" href="/assets/img/icons/site.webmanifest">
-    <link rel="mask-icon" href="/assets/img/icons/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-    <!--[if lt IE 9]>
-      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
-    <![endif]-->
+This End-User License Agreement ("EULA") is a legal agreement between you and West Beta
 
-    <!-- Styles -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap" rel="stylesheet">
-    <link href="//fonts.googleapis.com/css?family=Thasadith:400,700" rel="stylesheet">
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
-    <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+This EULA agreement governs your acquisition and use of our software ("Software") directly from West Beta or indirectly
+through a West Beta authorized reseller or distributor (a "Reseller").
 
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="West Beta Software">
-  </head>
-  <body>
-    
-<nav class="navbar">
-  <div class="container">
-    <div class="navbar-brand">
-      <a href="/">
-        <img class="logo" src="/assets/img/icon.png" alt="West Beta Logo">
-      </a>
-      <span class="navbar-burger burger" data-target="navbarMenu">
-        <span></span>
-        <span></span>
-        <span></span>
-      </span>
-    </div>
-    <div id="navbarMenu" class="navbar-menu">
-      <div class="navbar-end">
-        <div class="tabs is-right">
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/products">Products</a></li>
-            <li><a href="/support">Support</a></li>
-            <li><a href="/contact">Contact</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</nav>
+Please read this EULA agreement carefully before completing the installation process and using
+the Software. It provides a license to use the software and contains warranty information and liability disclaimers.
 
-<div class="container main">
-  
-<div class="content">
-	<div class="columns">
-	  	<div class="page column is-10 is-offset-1">
-	  		<h1>End User License Agreement for West Beta Software</h1>
-<p>This End-User License Agreement (&quot;EULA&quot;) is a legal agreement between you and West Beta</p>
-<p>This EULA agreement governs your acquisition and use of our software (&quot;Software&quot;) directly from West Beta or indirectly
-through a West Beta authorized reseller or distributor (a &quot;Reseller&quot;).</p>
-<p>Please read this EULA agreement carefully before completing the installation process and using
-the Software. It provides a license to use the software and contains warranty information and liability disclaimers.</p>
-<p>If you register for a free trial of the Software, this EULA agreement will also govern that trial. By clicking &quot;accept&quot;
+If you register for a free trial of the Software, this EULA agreement will also govern that trial. By clicking "accept"
 or installing and/or using the Software, you are confirming your acceptance of the Software and agreeing to
-become bound by the terms of this EULA agreement.</p>
-<p>If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you
+become bound by the terms of this EULA agreement.
+
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you
 have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have
 such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or
-use the Software, and you must not accept this EULA agreement.</p>
-<p>This EULA agreement shall apply only to the Software supplied by West Beta herewith regardless of whether other
+use the Software, and you must not accept this EULA agreement.
+
+This EULA agreement shall apply only to the Software supplied by West Beta herewith regardless of whether other
 software is referred to or described herein. The terms also apply to any West Beta updates, supplements,
 Internet-based services, and support services for the Software, unless other terms accompany those items on
-delivery. If so, those terms apply.</p>
-<h3>License Grant</h3>
-<p>West Beta hereby grants you a personal, non-transferable, non-exclusive licence to use the Software on your devices in
-accordance with the terms of this EULA agreement.</p>
-<p>You are permitted to load the Software (for example a PC, laptop, mobile or tablet) under your control. You are
-responsible for ensuring your device meets the minimum requirements of the Software.</p>
-<p>You are not permitted to:</p>
-<ul>
-<li>Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things</li>
-<li>Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose</li>
-<li>Allow any third party to use the Software on behalf of or for the benefit of any third party</li>
-<li>Use the Software in any way which breaches any applicable local, national or international law</li>
-<li>use the Software for any purpose that West Beta considers is a breach of this EULA agreement</li>
-</ul>
-<h3>Intellectual Property and Ownership</h3>
-<p>West Beta shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of West Beta</p>
-<p>West Beta reserves the right to grant licences to use the Software to third parties.</p>
-<h3>Termination</h3>
-<p>This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to West Beta.</p>
-<p>It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.</p>
-<h3>Governing Law</h3>
-<p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of the US.</p>
+delivery. If so, those terms apply.
+
+### License Grant
+
+West Beta hereby grants you a personal, non-transferable, non-exclusive licence to use the Software on your devices in
+accordance with the terms of this EULA agreement.
+
+You are permitted to load the Software (for example a PC, laptop, mobile or tablet) under your control. You are
+responsible for ensuring your device meets the minimum requirements of the Software.
+
+You are not permitted to:
+- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
+- Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
+- Allow any third party to use the Software on behalf of or for the benefit of any third party
+- Use the Software in any way which breaches any applicable local, national or international law
+- use the Software for any purpose that West Beta considers is a breach of this EULA agreement
+
+### Intellectual Property and Ownership
+
+West Beta shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of West Beta
+
+West Beta reserves the right to grant licences to use the Software to third parties.
+
+### Termination
+
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to West Beta.
+
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
+
+### Governing Law
+
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of the US.
+
+
+
 <!--
 # End User License Agreement for West Beta Software
 
@@ -214,36 +168,3 @@ In this EULA the expressions below shall have the meaning assigned to them in th
 
 9.3. Any dispute between West Beta and You shall exclusively be submitted to the competent court in The Hague, the Netherlands.
 -->
-
-	  	</div>
-	</div>
-	<div class="copyright">
-		<p>Copyright © 2019 West Beta</p>
-	</div>
-</div>
-
-</div>
-
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133838074-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-133838074-1');
-    </script>
-
-    <!-- Scripts -->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-shim.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.3/es6-shim.min.js"></script>
-    <script
-      src="//code.jquery.com/jquery-2.2.4.min.js"
-      integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-      crossorigin="anonymous"></script>
-    <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
-
-    <script src="/assets/js/script.js"></script>
-  </body>
-</html>

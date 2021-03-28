@@ -1,0 +1,15 @@
+{
+  "title": "West Beta Software",
+  "url": "https://westbeta.com",
+  "feed": {
+    "subtitle": "",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://westbeta.com/feed/feed.xml",
+    "id": "https://westbeta.com/"
+  },
+  "author": {
+    "name": "Chris Diana",
+    "email": "support@westbeta.com"
+  }
+}

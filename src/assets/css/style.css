@@ -1,7 +1,10 @@
 html,
 body {
   font-family: 'Open Sans', sans-serif;
-  background: url("/assets/img/cubes.png");
+  background: #202020;
+  color: #fff;
+  background: url("/assets/img/bg.webp");
+  background-size: cover;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -22,8 +25,17 @@ a {
   margin: 10px 0;
 }
 
+.tabs a {
+  color: #fff;
+}
+
 .tabs ul {
   border-bottom-style: none;
+}
+
+.tabs a:hover {
+  border-bottom-color: #5f82a2;
+  color: #82a3c1;
 }
 
 .copyright {
@@ -37,8 +49,8 @@ a {
 }
 
 .button.is-info.is-outlined {
-  border-color: #346591;
-  color: #346591;
+  border-color: #fff;
+  color: #fff;
 }
 .button.is-info.is-outlined:focus,
 .button.is-info.is-outlined:hover {
@@ -46,9 +58,34 @@ a {
     border-color: #346591;
 }
 
+.hero-body {
+  padding: 0 1.5rem;
+}
+
+.hero.is-fullheight {
+  background: rgba(40, 40, 40, 0.53);
+}
+
+.title {
+  color: #fff;
+}
+
 .page {
+  color: #000;
   padding: 3rem;
-  background: #fff;
+  background: rgba(244, 244, 244, 0.75);
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar-burger {
+  color: #fff;
+}
+
+.navbar-menu {
+  background-color: transparent;
 }
 
 @media screen and (max-width: 600px) {
