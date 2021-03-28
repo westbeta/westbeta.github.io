@@ -1,5 +1,4 @@
 node_modules/*
-site/
 *.swp
 .DS_Store
 package-lock.json

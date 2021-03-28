@@ -1,0 +1,102 @@
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #202020;
+  color: #fff;
+  background: url("/assets/img/bg.webp");
+  background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: unset;
+}
+
+a {
+  color: #346591;
+}
+
+.main {
+  padding: 3rem;
+}
+
+.logo {
+  height: 80px;
+  border: 0px;
+  margin: 10px 0;
+}
+
+.tabs a {
+  color: #fff;
+}
+
+.tabs ul {
+  border-bottom-style: none;
+}
+
+.tabs a:hover {
+  border-bottom-color: #5f82a2;
+  color: #82a3c1;
+}
+
+.copyright {
+  font-size: 12px;
+  text-align: center;
+  margin: 1rem;
+}
+
+.button.is-info {
+  background-color: #346591;
+}
+
+.button.is-info.is-outlined {
+  border-color: #fff;
+  color: #fff;
+}
+.button.is-info.is-outlined:focus,
+.button.is-info.is-outlined:hover {
+    background-color: #346591;
+    border-color: #346591;
+}
+
+.hero-body {
+  padding: 0 1.5rem;
+}
+
+.hero.is-fullheight {
+  background: rgba(40, 40, 40, 0.53);
+}
+
+.title {
+  color: #fff;
+}
+
+.page {
+  color: #000;
+  padding: 3rem;
+  background: rgba(244, 244, 244, 0.75);
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar-burger {
+  color: #fff;
+}
+
+.navbar-menu {
+  background-color: transparent;
+}
+
+@media screen and (max-width: 600px) {
+  .page {
+    padding: 1rem;
+  }
+  .main {
+    padding: 1.5rem;
+  }
+}
+
+img.has-border {
+ border: 2px solid #f2f2f2;
+}
