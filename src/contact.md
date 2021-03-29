@@ -12,6 +12,8 @@ West Beta Software is a small, creative software studio with located in Boulder,
 At West Beta, we provide quality applications, themes, plugins and extensions
 with a focus on modern interfaces and intuitive usability.
 
+Looking to develop a website or application? Reach out and let's chat about your next project.
+
 Have questions, comments or suggestions for our
 products or want to get in touch? Send us an email to <a href="mailto:support@westbeta.com">support@westbeta.com</a>
 or fill out the form below and we will reach out as soon as possible. For press inquiries, please contact us
