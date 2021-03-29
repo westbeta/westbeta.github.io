@@ -3,7 +3,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   background: #202020;
   color: #fff;
-  background: url("/assets/img/bg.jpg");
+  background: url("https://rawcdn.githack.com/westbeta/westbeta.github.io/1d3f44d5ccdf4bd3eb916d002aca17a09f6dd542/docs/assets/img/bg.jpg?raw=true");
   background-size: cover;
 }
 
