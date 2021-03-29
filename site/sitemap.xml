@@ -13,8 +13,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://westbeta.com/products/wordpress-authorize-net-payments-plugin/</loc>
-    <lastmod>2019-12-10</lastmod>
+    <loc>https://westbeta.com/terms/</loc>
+    <lastmod>2020-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -31,7 +31,25 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://westbeta.com/products/</loc>
+    <lastmod>2019-12-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://westbeta.com/products/wordpress-authorize-net-payments-plugin/</loc>
+    <lastmod>2019-12-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://westbeta.com/support/</loc>
+    <lastmod>2020-01-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://westbeta.com/acknowledgements/</loc>
     <lastmod>2020-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -39,24 +57,6 @@
   <url>
     <loc>https://westbeta.com/contact/</loc>
     <lastmod>2021-03-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://westbeta.com/terms/</loc>
-    <lastmod>2020-01-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://westbeta.com/products/</loc>
-    <lastmod>2019-12-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://westbeta.com/acknowledgements/</loc>
-    <lastmod>2020-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
