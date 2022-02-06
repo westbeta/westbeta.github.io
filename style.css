@@ -1,0 +1,66 @@
+html, body {
+  background: rgb(26, 26, 33);
+}
+
+h1,h2,h3,h4,h5,p {
+  color: rgb(123, 123, 143);
+}
+
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  opacity: 0.25;
+  z-index: 0;
+}
+
+.content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 9;
+}
+
+a {
+  color: rgb(70, 176, 247);
+}
+
+a:hover, a:visited, a:focus {
+  color: rgb(128, 157, 176);
+}
+
+.intro {
+  font-size: 70px;
+  font-weight: lighter;
+  color: rgb(128, 157, 176);
+}
+
+.logo {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  height: 80px;
+  border: 0px;
+}
+
+.hero-body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: lighter;
+}
+
+.intro-text {
+  line-height: 40px;
+  font-size: 30px;
+  color: #fafafa;
+  font-weight: lighter;
+}

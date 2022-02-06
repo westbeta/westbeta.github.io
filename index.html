@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>West Beta Software</title>
+
+    <meta name="keywords" content="west beta, software, wordpress, plugins, themes, applications"/>
+    <meta name="description" content="West Beta Software is a small, creative software studio. We provide quality applications, themes, and plugins with a focus on modern and intuitive usability."/>
+    <meta name="url" content="westbeta.com">
+    <meta name="identifier-URL" content="westbeta.com">
+
+    <!-- Icons -->
+    <link rel="shortcut icon" href="img/icons/icon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/icons/favicon-16x16.png">
+    <link rel="manifest" href="img/icons/site.webmanifest">
+    <link rel="mask-icon" href="img/icons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Thasadith:400,700" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <canvas class='dots'></canvas>
+
+    <div class="content">
+      <img class="logo" src="img/icon.png" alt="West Beta Logo">
+
+      <div class="hero hero-lg">
+        <div class="hero-body text-center">
+          <h1 class="intro">Intuitive Software</h1>
+          <p class="intro-text">
+            West Beta Software is your custom development <br>
+            partner for web and app solutions.
+          </p>
+          <p>
+            Have an idea?
+            <a href="mailto:support@westbeta.com?subject=Learning more about West Beta">Reach out</a>
+            and let's chat about building your solution or product.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133838074-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-133838074-1');
+    </script>
+
+    <script src="script.js"></script>
+    <script>
+      window.onload = function() {
+        canvasDots();
+      };
+    </script>
+
+  </body>
+</html>
