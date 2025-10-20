@@ -6,6 +6,12 @@ h1,h2,h3,h4,h5,p {
   color: rgb(123, 123, 143);
 }
 
+.hero.hero-lg {
+  position: relative;
+  padding-top: 7rem;
+  padding-bottom: 0;
+}
+
 canvas {
   position: absolute;
   width: 100%;
@@ -38,6 +44,7 @@ canvas {
   z-index: 9;
 }
 
+
 a {
   color: rgb(70, 176, 247);
 }
@@ -60,6 +67,7 @@ a:hover, a:visited, a:focus {
   border: 0px;
 }
 
+
 .hero-body {
   max-width: 750px !important;
   margin: 0 auto;
@@ -68,10 +76,18 @@ a:hover, a:visited, a:focus {
 }
 
 .intro-text {
+  margin: 0 auto;
+  max-width: 300px;
+  margin-bottom: 1rem;
   line-height: 40px;
   font-size: 28px;
   color: #fafafa;
   font-weight: lighter;
+}
+
+.intro-content {
+  margin: 0 auto;
+  max-width: 300px;
 }
 
 footer {
