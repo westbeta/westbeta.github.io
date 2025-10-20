@@ -34,7 +34,7 @@
     <link href="style.css" rel="stylesheet">
   </head>
   <body>
-    <canvas class='dots'></canvas>
+    <canvas id="background-canvas"></canvas>
 
     <div class="content">
       <img class="logo" src="img/icon.png" alt="West Beta Logo">
@@ -44,12 +44,12 @@
           <h1 class="intro">Intuitive Software</h1>
           <p class="intro-text">
             West Beta Software is your custom development <br>
-            partner for web and app solutions.
+            partner for AI solutions.
           </p>
           <p>
             Have an idea?
             <a href="mailto:support@westbeta.com?subject=Learning more about West Beta">Reach out</a>
-            and let's chat about building your solution or product.
+            and let's chat about building something.
           </p>
         </div>
       </div>
@@ -70,13 +70,6 @@
 
     gtag('config', 'UA-133838074-1');
     </script>
-
-    <script src="script.js"></script>
-    <script>
-      window.onload = function() {
-        canvasDots();
-      };
-    </script>
-
+    <script type="module" src="main.js"></script>
   </body>
 </html>

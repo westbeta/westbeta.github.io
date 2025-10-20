@@ -18,6 +18,15 @@ canvas {
   z-index: 0;
 }
 
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+}
+
 .content {
   position: absolute;
   width: 100%;
@@ -54,7 +63,7 @@ a:hover, a:visited, a:focus {
 .hero-body {
   max-width: 800px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 2rem 2.5rem !important;
   font-weight: lighter;
 }
 
@@ -79,4 +88,14 @@ footer {
 
 footer a {
   color: #b0b0b0;
+}
+
+@media (max-width: 768px) {
+  .intro {
+    font-size: 40px;
+  }
+  .intro-text {
+    line-height: 30px;
+    font-size: 25px;
+  }
 }
